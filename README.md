@@ -33,6 +33,7 @@ We will be posting our findings to our website
 
 #### Graduate Students
 * <b> <a href="https://www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, Master's Student, Supply Chain
+* <b> <a href="https://www.linkedin.com/in/mehrabmorshed/"> Mehrab Bin Morshed </a></b>, PhD Student, Computer Science
 * <b> <a href="https://www.linkedin.com/in/mariana-de-almeida-costa"> Mariana De Almeida Costa </a> </b>, PhD Student, Industrial Engineering
 * <b> <a href="https://www.linkedin.com/in/mohamed-el-tonbari-846170127/"> Mohamed Ali El Moghazi El Tonbari </a> </b>, PhD Student, Operations Research
 * <b> <a href="http://rgashgari.mystrikingly.com/"> Raneem Gashgari </a> </b>, Master's Student, Industrial Engineering
